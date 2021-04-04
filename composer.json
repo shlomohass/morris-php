@@ -1,7 +1,7 @@
 {
-  "name": "gfazioli/morris-php",
-  "version": "0.6.0",
-  "homepage": "https://github.com/gfazioli/morris-php",
+  "name": "siktec/morris-php",
+  "version": "0.6.1",
+  "homepage": "https://github.com/shlomohass/morris-php",
   "license": "MIT",
   "type": "library",
   "description": "PHP helper classes for morris.js",
@@ -13,18 +13,17 @@
   ],
   "authors": [
     {
-    "name": "Giovambattista Fazioli",
-    "email": "g.fazioli@wpxtre.me",
-    "homepage" : "http://undolog.com"
+    "name": "SIKTEC - Based on: Giovambattista Fazioli",
+    "email": "dev@siktec.com"
     }    
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gfazioli/morris-php.git"
+    "url": "https://github.com/shlomohass/morris-php.git"
   },
   "support": {
-    "email": "g.fazioli@wpxtre.me",
-    "issues": "https://github.com/gfazioli/morris-php/issues"
+    "email": "dev@siktec.com",
+    "issues": "https://github.com/shlomohass/morris-php/issues"
   },
   "minimum-stability": "stable",
   "autoload": {
@@ -34,7 +33,6 @@
   },
   "prefer-stable" : true,
   "require": {
-    "php": ">=5.2.4",
-    "morrisjs/morris.js" : "dev-master"
+    "php": ">=5.2.4"
   }
 }
